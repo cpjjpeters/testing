@@ -1,8 +1,8 @@
-package org.example;
+package be.ipeters;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MainTest {
+public class MainTest {
 
     @org.junit.jupiter.api.BeforeEach
     void setUp() {
