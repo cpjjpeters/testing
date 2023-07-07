@@ -1,4 +1,4 @@
-package org.example;
+package be.ipeters;
 
 public class Main {
     public static void main(String[] args) {
